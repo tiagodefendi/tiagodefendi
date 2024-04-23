@@ -73,3 +73,5 @@ Other links:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21jsoadtnocg4v2tf26x24rey?si=69400958f3cb462e&nd=1&dlsi=390aba3fa8904192)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3FevfNV2sd)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tiago_defendi)
+
+> Hey, just wanted to say a big thank you for checking out little bit about myself. Really appreciate you taking the time to read it. Your attention means a lot! 🙃
