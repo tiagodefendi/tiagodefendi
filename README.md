@@ -2,7 +2,7 @@
 
 ---
 
-### 📫 Contact links:
+### 📫 Contact links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagodefendi/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mailto:tiagodefendidasilva@gmail.com)
@@ -12,9 +12,8 @@
 
 ---
 
-![Defendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodefendi&show_icons=true&include_all_commits=true&number_format=short&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodefendi&layout=compact&theme=transparent)
+![Defendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodefendi&show_icons=true&include_all_commits=true&number_format=short&icon_color=F09200&title_color=E55E00&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodefendi&layout=compact&title_color=E55E00&hide_border=true)
 
 ---
 
@@ -31,8 +30,8 @@
 -->
 
 ### 🧮 Skills
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
+[![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
 <!--
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -44,10 +43,12 @@
 ### 💾 Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 OS
+### 💻 Development to OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+<!--
 ![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white)
+-->
 
 
 ### 🛠️ Developing Environment
@@ -56,9 +57,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<!--
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+-->
 
 ---
 
