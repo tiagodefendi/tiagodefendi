@@ -12,8 +12,8 @@
 
 ---
 
-![Defendi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tiagodefendi&show_icons=true&include_all_commits=true&number_format=short&icon_color=F09200&title_color=E55E00&hide_border=true)
-![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodefendi&layout=compact&title_color=E55E00&hide_border=true)
+![Defendi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tiagodefendi&show_icons=true&include_all_commits=true&number_format=short&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=;35,003CFF,FF001E)
+![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodefendi&layout=compact&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=;35,003CFF,FF001E)
 
 ---
 
