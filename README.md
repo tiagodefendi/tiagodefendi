@@ -129,7 +129,6 @@ Development to OS
 </summary>
 
 Continue Python BOTs for Discord
-Tetris Game in [this README.md](https://github.com/tiagodefendi/tiagodefendi/blob/main/README.md)
 ...
 
 </details>
