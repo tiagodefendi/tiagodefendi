@@ -23,14 +23,16 @@
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/tiagodefendi/Intoducao_Programacao)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/tiagodefendi/Algoritimo)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1)
+[![Julia](https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white)](https://github.com/tiagodefendi/Julia)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/tiagodefendi/R)
 
 <details>
 <summary>
 Learning
 </summary>
+<br>
 
-[![Julia](https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white)](https://github.com/tiagodefendi/Julia)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/tiagodefendi/R)
+![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 </details>
 
@@ -51,12 +53,13 @@ Learning
 <summary>
 Learning
 </summary>
+<br>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 </details>
 <!--
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
  -->
 
 ### 💾 Database
@@ -104,6 +107,7 @@ Other:
 <summary>
 <b>🛑 Stopped For Now</b>
 </summary>
+<br>
 
 Programming Language
 
@@ -125,6 +129,7 @@ Development to OS
 </summary>
 
 Continue Python BOTs for Discord
+Tetris Game in [this README.md](https://github.com/tiagodefendi/tiagodefendi/blob/main/README.md)
 ...
 
 </details>
