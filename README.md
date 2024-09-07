@@ -47,12 +47,16 @@ Learning
 [![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
 [![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
+
 [![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+
+<!--
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=Overleaf&logoColor=white)
+-->
 
 <details>
 <summary>
@@ -83,10 +87,12 @@ Learning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagodefendi)
 [![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@TiagoDefendi)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <!--
@@ -150,9 +156,13 @@ Continue Python BOTs for Discord
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=18152E)
 ![LightroomC](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom-Classic&logoColor=18152E)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=3c240c)
+
 ![Premier Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=22042C)
 ![Vegas Pro](https://img.shields.io/badge/VEGAS-1A1A1A.svg?style=for-the-badge&logo=VEGAS&logoColor=40D0FB)
+![Davinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)
+
 ![OBS](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white)
+
 ![Fl Studio](https://img.shields.io/badge/Fl%20Studio-99CC33.svg?style=for-the-badge&logo=Franprix&logoColor=white)
 
 </details>
