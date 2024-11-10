@@ -40,13 +40,10 @@
 
 <div style="display: inline-block;">
 <b>Enthusiast: </b>
-
   <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank"><img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
   </a>
-
   <a href="https://github.com/tiagodefendi/Julia" target="_blank"><img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
   </a>
-
   <a href="https://github.com/tiagodefendi/R" target="_blank"><img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
   </a>
 </div>
