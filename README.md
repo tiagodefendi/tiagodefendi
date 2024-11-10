@@ -113,7 +113,7 @@
   </a>
 
   <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
-    <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/django.svg"/>
+    <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nodejs.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
