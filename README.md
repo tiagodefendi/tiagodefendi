@@ -21,7 +21,7 @@
 
 ### 📚 Programming Language
 
-[![Python](https://github.com/tiagodefendi/tiagodefendi/icons/languages/python.svg)](https://github.com/tiagodefendi/Intoducao_Programacao)
+[![Python](https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg)](https://github.com/tiagodefendi/Intoducao_Programacao)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/tiagodefendi/Algoritimo)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1)
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://github.com/tiagodefendi/CrazyIdeas)
