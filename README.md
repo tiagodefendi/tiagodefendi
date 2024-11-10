@@ -21,16 +21,16 @@
 
 ### 📚 Programming Language
 
-<div style="display: inline_block">
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
+<div style="display: inline-block">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank" style="display: inline-block;">
     <img align="center" alt="Python" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Algoritimo" target="_blank">
+  <a href="https://github.com/tiagodefendi/Algoritimo" target="_blank" style="display: inline-block;">
     <img align="center" alt="C" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1" target="_blank">
+  <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1" target="_blank" style="display: inline-block;">
     <img align="center" alt="C++" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
 </div>
