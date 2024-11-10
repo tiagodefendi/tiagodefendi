@@ -27,9 +27,11 @@
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
+
   <a href="https://github.com/tiagodefendi/Algoritimo" target="_blank">
     <img align="center" alt="C" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
   </a>
+
   <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1" target="_blank">
     <img align="center" alt="C++" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
@@ -42,9 +44,11 @@
   <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank">
     <img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
   </a>
+
   <a href="https://github.com/tiagodefendi/Julia" target="_blank">
     <img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
   </a>
+
   <a href="https://github.com/tiagodefendi/R" target="_blank">
     <img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
   </a>
@@ -57,12 +61,15 @@
   <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
     <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
   </a>
+
   <a href="" target="_blank">
     <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
   </a>
+
   <a href="https://github.com/tiagodefendi/produto-web" target="_blank">
     <img align="center" alt="Dart" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/dart.svg"/>
   </a>
+
   <a href="" target="_blank">
     <img align="center" alt="Lua" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
   </a>
@@ -71,8 +78,20 @@
 
 ### 💾 Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+<div style="display:inline;">
+  <a href="" target="_blank">
+    <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/mysql.svg"/>
+  </a>
+
+  <a href="" target="_blank">
+    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg"/>
+  </a>
+
+  <a href="" target="_blank">
+    <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
+  </a>
+</div>
+</br>
 
 ### 🧮 Skills
 
