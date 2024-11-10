@@ -25,15 +25,15 @@
 <b>Expert: </b>
 
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
-    <img align="center" alt="Python" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
+    <img align="center" alt="Python" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/Algoritimo" target="_blank">
-    <img align="center" alt="C" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
+    <img align="center" alt="C" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1" target="_blank">
-    <img align="center" alt="C++" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
+    <img align="center" alt="C++" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
 </div>
 </br>
@@ -42,15 +42,15 @@
 <b>Enthusiast: </b>
 
   <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank">
-    <img align="center" alt="Java" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
+    <img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/Julia" target="_blank">
-    <img align="center" alt="Julia" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
+    <img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/R" target="_blank">
-    <img align="center" alt="R" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
+    <img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
   </a>
 </div>
 </br>
@@ -59,19 +59,19 @@
 <b>Others: </b>
 
   <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
-    <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
   </a>
 
   <a href="" target="_blank">
-    <img align="center" alt="TypeScript" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/produto-web" target="_blank">
-    <img align="center" alt="Dart" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/dart.svg"/>
+    <img align="center" alt="Dart" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/dart.svg"/>
   </a>
 
   <a href="" target="_blank">
-    <img align="center" alt="Lua" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
+    <img align="center" alt="Lua" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
   </a>
 </div>
 </br>
