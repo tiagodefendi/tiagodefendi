@@ -79,16 +79,16 @@
 ### 💾 Database
 
 <div style="display:inline;">
-  <a href="" target="_blank">
     <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/mysql.svg"/>
-  </a>
-
-  <a href="" target="_blank">
     <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg"/>
-  </a>
+    <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
+
+  <!-- <a href="" target="_blank">
+  </a> -->
+  <!-- <a href="" target="_blank">
+  </a> -->
 
   <a href="" target="_blank">
-    <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
   </a>
 </div>
 </br>
