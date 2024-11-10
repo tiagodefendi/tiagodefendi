@@ -38,18 +38,18 @@
 </div>
 </br>
 
-<div style="display:inline;">
-<b>Enthusiast: </b>
-
-  <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank">
+<div style="display: inline-block;">
+  <b>Enthusiast: </b>
+  
+  <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Julia" target="_blank">
+  <a href="https://github.com/tiagodefendi/Julia" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/R" target="_blank">
+  <a href="https://github.com/tiagodefendi/R" target="_blank" style="display: inline-block;">
     <img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
   </a>
 </div>
@@ -78,17 +78,17 @@
 
 ### 💾 Database
 
-<div style="display:inline;">
+<div style="display: inline-block;">
+  <a href="" target="_blank">
     <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/mysql.svg"/>
-    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg"/>
-    <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
-
-  <!-- <a href="" target="_blank">
-  </a> -->
-  <!-- <a href="" target="_blank">
-  </a> -->
+  </a>
 
   <a href="" target="_blank">
+    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg"/>
+  </a>
+
+  <a href="" target="_blank">
+    <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
   </a>
 </div>
 </br>
