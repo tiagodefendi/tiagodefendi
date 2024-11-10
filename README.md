@@ -22,17 +22,19 @@
 ### 📚 Programming Language
 
 <div style="display: inline_block">
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
     <img align="center" alt="Python" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Algoritimo">
+  <a href="https://github.com/tiagodefendi/Algoritimo" target="_blank">
     <img align="center" alt="C" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1" target="_blank">
+    <img align="center" alt="C++" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
 </div>
 
-<!-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/tiagodefendi/Algoritimo) -->
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1)
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://github.com/tiagodefendi/CrazyIdeas)
 
 [![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/tiagodefendi/produto-api)
