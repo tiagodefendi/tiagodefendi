@@ -22,7 +22,7 @@
 ### 📚 Programming Language
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg">
 </div>
 
 <!-- [![Python](https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg)](https://github.com/tiagodefendi/Intoducao_Programacao) -->
