@@ -21,9 +21,12 @@
 
 ### 📚 Programming Language
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg">
+<div style="display: inline_block">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao">
+    <img align="center" alt="Python" height="30" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
+  </a>
 </div>
+
 
 <!-- [![Python](https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg)](https://github.com/tiagodefendi/Intoducao_Programacao) -->
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/tiagodefendi/Algoritimo)
