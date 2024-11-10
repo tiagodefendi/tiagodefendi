@@ -36,6 +36,7 @@
     <img align="center" alt="C++" height="35" width="35" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
 </div>
+</br>
 
 <div style="display:inline;">
 <b>Enthusiast: </b>
@@ -52,6 +53,7 @@
     <img align="center" alt="R" height="35" width="35" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
   </a>
 </div>
+</br>
 
 <div style="display:inline-block">
 <b>Others: </b>
@@ -72,6 +74,7 @@
     <img align="center" alt="Lua" height="35" width="35" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
   </a>
 </div>
+</br>
 
 ### 💾 Database
 
