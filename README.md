@@ -21,7 +21,7 @@
 
 ### 📚 Programming Language
 
-<div style="display:inline-block">
+<div style="display: inline-block">
 <b>Expert: </b>
 
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
@@ -39,17 +39,23 @@
 </br>
 
 <div style="display: inline-block;">
-    <b>Enthusiast: </b>
-    <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank"><img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
-    </a>
-    <a href="https://github.com/tiagodefendi/Julia" target="_blank"><img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
-    </a>
-    <a href="https://github.com/tiagodefendi/R" target="_blank"><img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
-    </a>
+<b>Enthusiast: </b>
+
+  <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank">
+    <img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/Julia" target="_blank">
+    <img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/R" target="_blank">
+    <img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
+  </a>
 </div>
 </br>
 
-<div style="display:inline-block">
+<div style="display: inline-block">
 <b>Others: </b>
 
   <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
@@ -89,30 +95,50 @@
 
 ### 🧮 Skills
 
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
-[![Pandas](https://img.shields.io/badge/Pandas-43df3a?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/batichotti/Large-Files-Research)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+<div style="display: inline-block;">
+  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
+    <img align="center" alt="Numpy" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg"/>
+  </a>
 
-[![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/tiagodefendi/produto-api)
+  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
+    <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg"/>
+  </a>
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/tiagodefendi/Hydro-Cultiva-Connect)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/tiagodefendi/produto-web)
+  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
+    <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
+  </a>
 
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+    <img align="center" alt="Django" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/django.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
+    <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/django.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+    <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/html5.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+    <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/css3.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+    <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bootstrap.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/produto-web" target="_blank">
+    <img align="center" alt="Flutter" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/flutter.svg"/>
+  </a>
+</div>
+</br>
+
+<!--
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=Overleaf&logoColor=white)
-
-<details>
-<summary>
-Learning
-</summary>
-</br>
-
-
-</details>
+-->
 
 ### 💻 Development to OS
 
