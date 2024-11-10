@@ -21,8 +21,8 @@
 
 ### 📚 Programming Language
 
-**Expert:** 
 <div style="display:inline-block">
+<b>Expert: </b>
 
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
     <img align="center" alt="Python" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
@@ -35,11 +35,11 @@
   <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1" target="_blank">
     <img align="center" alt="C++" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
-
 </div>
+<!-- </br> -->
 
-**Enthusiast:** 
 <div style="display:inline;">
+<b>Enthusiast: </b>
 
   <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank">
     <img align="center" alt="Java" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
@@ -52,11 +52,11 @@
   <a href="https://github.com/tiagodefendi/R" target="_blank">
     <img align="center" alt="R" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
   </a>
-
 </div>
+<!-- </br> -->
 
-**Others:** 
 <div style="display:inline-block">
+<b>Others: </b>
 
   <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
     <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
@@ -73,8 +73,8 @@
   <a href="" target="_blank">
     <img align="center" alt="Lua" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
   </a>
-
 </div>
+<!-- </br> -->
 
 ### 💾 Database
 
