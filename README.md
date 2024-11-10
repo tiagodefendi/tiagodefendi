@@ -25,11 +25,13 @@
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao">
     <img align="center" alt="Python" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
+
+  <a href="https://github.com/tiagodefendi/Algoritimo">
+    <img align="center" alt="C" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
+  </a>
 </div>
 
-
-<!-- [![Python](https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg)](https://github.com/tiagodefendi/Intoducao_Programacao) -->
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/tiagodefendi/Algoritimo)
+<!-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/tiagodefendi/Algoritimo) -->
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1)
 [![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://github.com/tiagodefendi/CrazyIdeas)
 
