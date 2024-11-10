@@ -79,17 +79,9 @@
 ### 💾 Database
 
 <div style="display: inline-block;">
-  <a href="" target="_blank">
     <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/mysql.svg"/>
-  </a>
-
-  <a href="" target="_blank">
     <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg"/>
-  </a>
-
-  <a href="" target="_blank">
     <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
-  </a>
 </div>
 </br>
 
@@ -100,12 +92,16 @@
     <img align="center" alt="Numpy" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg"/>
   </a>
 
-  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
-    <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg"/>
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+    <img align="center" alt="Docker" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/docker.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi" target="_blank">
+    <img align="center" alt="Git" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/git.svg"/>
   </a>
 
   <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
-    <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
+    <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
@@ -131,6 +127,10 @@
   <a href="https://github.com/tiagodefendi/produto-web" target="_blank">
     <img align="center" alt="Flutter" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/flutter.svg"/>
   </a>
+
+  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
+    <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
+  </a>
 </div>
 </br>
 
@@ -142,25 +142,29 @@
 
 ### 💻 Development to OS
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-34A853.svg?style=for-the-badge&logo=Android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=iOS&logoColor=white)
+<div style="display: inline-block;">
+    <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
+    <img align="center" alt="Linux" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/linux.svg"/>
+    <img align="center" alt="MacOS & iOS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/apple.svg"/>
+    <img align="center" alt="Android" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/android.svg"/>
+</div>
+</br>
 
 ### 🛠️ Developing Environment
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiagodefendi)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![R Studio](https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
-[![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@TiagoDefendi)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<div style="display: inline-block;">
+    <img align="center" alt="Github" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/github.svg"/>
+    <img align="center" alt="VS Code" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/vscode.svg"/>
+    <img align="center" alt="Pycharm" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/pycharm.svg"/>
+    <img align="center" alt="IntelliJ" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/intellij.svg"/>
+    <img align="center" alt="Postman" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/postman.svg"/>
+    <img align="center" alt="R Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/rstudio.svg"/>
+    <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/androidstudio.svg"/>
+    <img align="center" alt="Replit" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg"/>
+    <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
+    <img align="center" alt="Ubuntu" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg"/>
+</div>
+</br>
 
 ---
 
@@ -182,8 +186,7 @@ Other:
 <b>📆 Future Projects</b>
 </summary>
 
-Continue Python BOTs for Discord
-...
+Continue Python BOTs for Discord -> https://github.com/tiagodefendi/Lucy
 
 </details>
 
