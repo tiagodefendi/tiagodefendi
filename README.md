@@ -39,7 +39,7 @@
 </div>
 
 **Enthusiast:** 
-<div style="display:inline-block">
+<div style="display:inline;">
 
   <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank">
     <img align="center" alt="Java" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
