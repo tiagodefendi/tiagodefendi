@@ -19,11 +19,12 @@
 
 ---
 
-### 📚 Programing Language
+### 📚 Programming Language
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/tiagodefendi/Intoducao_Programacao)
+[![Python](https://github.com/tiagodefendi/tiagodefendi/icons/languages/python.svg)](https://github.com/tiagodefendi/Intoducao_Programacao)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/tiagodefendi/Algoritimo)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1)
+[![Java](https://img.shields.io/badge/Java-F46D01.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://github.com/tiagodefendi/CrazyIdeas)
 
 [![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/tiagodefendi/produto-api)
 [![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://github.com/tiagodefendi/produto-web)
