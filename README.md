@@ -23,7 +23,7 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao">
-    <img align="center" alt="Python" height="30" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
+    <img align="center" alt="Python" height="50" width="50" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
 </div>
 
