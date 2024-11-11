@@ -24,53 +24,53 @@
 <div>
 <b>Expert: </b>
 
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Algoritimo" target="_blank">
+  <a href="https://github.com/tiagodefendi/Algoritimo">
     <img align="center" alt="C" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1" target="_blank">
+  <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1">
     <img align="center" alt="C++" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
 </div>
 </br>
 
-<div style="display: inline-block;">
+<div>
 <b>Enthusiast: </b>
 
-  <a href="https://github.com/tiagodefendi/CrazyIdeas" target="_blank">
+  <a href="https://github.com/tiagodefendi/CrazyIdeas">
     <img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Julia" target="_blank">
+  <a href="https://github.com/tiagodefendi/Julia">
     <img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/R" target="_blank">
+  <a href="https://github.com/tiagodefendi/R">
     <img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
   </a>
 </div>
 </br>
 
-<div style="display: inline-block">
+<div>
 <b>Others: </b>
 
-  <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
+  <a href="https://github.com/tiagodefendi/produto-api">
     <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href="">
     <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/produto-web" target="_blank">
+  <a href="https://github.com/tiagodefendi/produto-web">
     <img align="center" alt="Dart" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/dart.svg"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href="">
     <img align="center" alt="Lua" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
   </a>
 </div>
@@ -78,7 +78,7 @@
 
 ### 💾 Database
 
-<div style="display: inline-block;">
+<div>
     <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/mysql.svg"/>
     <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg"/>
     <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
@@ -87,48 +87,48 @@
 
 ### 🧮 Skills
 
-<div style="display: inline-block;">
-  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
+<div>
+  <a href="https://github.com/batichotti/Titan-Files-Research">
     <img align="center" alt="Numpy" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="Docker" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/docker.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi" target="_blank">
+  <a href="https://github.com/tiagodefendi">
     <img align="center" alt="Git" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/git.svg"/>
   </a>
 
-  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
+  <a href="https://github.com/batichotti/Titan-Files-Research">
     <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="Django" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/django.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/produto-api" target="_blank">
+  <a href="https://github.com/tiagodefendi/produto-api">
     <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nodejs.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/html5.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/css3.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect" target="_blank">
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bootstrap.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/produto-web" target="_blank">
+  <a href="https://github.com/tiagodefendi/produto-web">
     <img align="center" alt="Flutter" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/flutter.svg"/>
   </a>
 
-  <a href="https://github.com/batichotti/Titan-Files-Research" target="_blank">
+  <a href="https://github.com/batichotti/Titan-Files-Research">
     <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
   </a>
 </div>
@@ -142,7 +142,7 @@
 
 ### 💻 Development to OS
 
-<div style="display: inline-block;">
+<div">
     <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
     <img align="center" alt="Linux" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/linux.svg"/>
     <img align="center" alt="MacOS & iOS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/apple.svg"/>
@@ -152,7 +152,7 @@
 
 ### 🛠️ Developing Environment
 
-<div style="display: inline-block;">
+<div>
     <img align="center" alt="Github" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/github.svg"/>
     <img align="center" alt="VS Code" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/vscode.svg"/>
     <img align="center" alt="Pycharm" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/pycharm.svg"/>
@@ -176,7 +176,7 @@ Other:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3FevfNV2sd)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tiago_defendi)
 
-> Hey, just wanted to say a big thank you for checking out little bit about myself. Really appreciate you taking the time to read it. Your attention means a lot! 🙃
+> Hey, just wanted to say a big thank you for checking out a little bit about myself. Really appreciate you taking the time to read it. Your attention means a lot! 🙃
 
 ---
 
