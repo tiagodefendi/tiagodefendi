@@ -142,7 +142,7 @@
 
 ### 💻 Development to OS
 
-<div">
+<div>
     <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
     <img align="center" alt="Linux" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/linux.svg"/>
     <img align="center" alt="MacOS & iOS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/apple.svg"/>
