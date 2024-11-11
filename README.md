@@ -21,10 +21,10 @@
 
 ### 📚 Programming Language
 
-<div style="display: inline-block">
+<div>
 <b>Expert: </b>
 
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
 
