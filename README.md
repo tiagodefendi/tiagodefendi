@@ -24,7 +24,7 @@
 <div style="display: inline-block">
 <b>Expert: </b>
 
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao" target="_blank" style="text-decoration: none;">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
   </a>
 
