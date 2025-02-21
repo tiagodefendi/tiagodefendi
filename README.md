@@ -121,7 +121,7 @@
     <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
   </a>
 
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
+  <a href="https://github.com/tiagodefendi/Computacao_Fisica">
     <img align="center" alt="Arduino" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino_ide.svg"/>
   </a>
 </div>
