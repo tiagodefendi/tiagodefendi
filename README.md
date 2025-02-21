@@ -22,7 +22,6 @@
 ### 📚 Programming Language
 
 <div>
-<b>Expert: </b>
 
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao">
     <img align="center" alt="Python" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
@@ -35,14 +34,17 @@
   <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1">
     <img align="center" alt="C++" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
   </a>
-</div>
-</br>
-
-<div>
-<b>Enthusiast: </b>
 
   <a href="https://github.com/tiagodefendi/CrazyIdeas">
     <img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/produto-api">
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
+  </a>
+
+  <a href="">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/Julia">
@@ -51,19 +53,6 @@
 
   <a href="https://github.com/tiagodefendi/R">
     <img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
-  </a>
-</div>
-</br>
-
-<div>
-<b>Others: </b>
-
-  <a href="https://github.com/tiagodefendi/produto-api">
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
-  </a>
-
-  <a href="">
-    <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/produto-web">
@@ -131,6 +120,10 @@
   <a href="https://github.com/batichotti/Titan-Files-Research">
     <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
   </a>
+
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
+    <img align="center" alt="Arduino" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino_ide.svg"/>
+  </a>
 </div>
 </br>
 
@@ -161,6 +154,7 @@
     <img align="center" alt="R Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/rstudio.svg"/>
     <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/androidstudio.svg"/>
     <img align="center" alt="Replit" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg"/>
+    <img align="center" alt="Arduino IDE" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino_ide.svg"/>
     <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
     <img align="center" alt="Ubuntu" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg"/>
 </div>
