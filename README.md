@@ -122,7 +122,7 @@
   </a>
 
   <a href="https://github.com/tiagodefendi/Computacao_Fisica">
-    <img align="center" alt="Arduino" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino_ide.svg"/>
+    <img align="center" alt="Arduino" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
   </a>
 </div>
 </br>
@@ -154,7 +154,7 @@
     <img align="center" alt="R Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/rstudio.svg"/>
     <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/androidstudio.svg"/>
     <img align="center" alt="Replit" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg"/>
-    <img align="center" alt="Arduino IDE" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino_ide.svg"/>
+    <img align="center" alt="Arduino IDE" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
     <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
     <img align="center" alt="Ubuntu" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg"/>
 </div>
