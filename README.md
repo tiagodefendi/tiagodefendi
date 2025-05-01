@@ -100,6 +100,26 @@
   <a href="https://github.com/tiagodefendi/produto-api">
     <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nodejs.svg"/>
   </a>
+  
+  <a href="">
+    <img align="center" alt="NestJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nestjs.svg"/>
+  </a>
+  
+  <a href="">
+    <img align="center" alt="NextJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nextjs.svg"/>
+  </a>
+
+  <a href="">
+    <img align="center" alt="React" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/react.svg"/>
+  </a>
+
+  <a href="">
+    <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/tailwindcss.svg"/>
+  </a>
+
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
+    <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bootstrap.svg"/>
+  </a>
 
   <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/html5.svg"/>
@@ -107,10 +127,6 @@
 
   <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/css3.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
-    <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bootstrap.svg"/>
   </a>
 
   <a href="https://github.com/tiagodefendi/produto-web">
