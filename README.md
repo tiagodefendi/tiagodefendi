@@ -77,9 +77,6 @@
 ### 🧮 Skills
 
 <div>
-  <a href="https://github.com/batichotti/Titan-Files-Research">
-    <img align="center" alt="Numpy" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg"/>
-  </a>
 
   <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
     <img align="center" alt="Docker" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/docker.svg"/>
@@ -89,7 +86,11 @@
     <img align="center" alt="Git" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/git.svg"/>
   </a>
 
-  <a href="https://github.com/batichotti/Titan-Files-Research">
+  <a href="https://github.com/batichotti/Colossal-Files-Research">
+    <img align="center" alt="Numpy" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg"/>
+  </a>
+  
+  <a href="https://github.com/batichotti/Colossal-Files-Research">
     <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg"/>
   </a>
 
