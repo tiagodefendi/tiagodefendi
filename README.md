@@ -43,7 +43,7 @@
     <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
   </a>
 
-  <a href="">
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
     <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
   </a>
 
@@ -106,15 +106,15 @@
     <img align="center" alt="NestJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nestjs.svg"/>
   </a>
   
-  <a href="">
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
     <img align="center" alt="NextJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nextjs.svg"/>
   </a>
 
-  <a href="">
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
     <img align="center" alt="React" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/react.svg"/>
   </a>
 
-  <a href="">
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
     <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/tailwindcss.svg"/>
   </a>
 
