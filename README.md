@@ -1,6 +1,6 @@
 ### Hello, World! 👋, I'm Tiago Defendi 🤓
 
-- 🎓 Currently undergraduate in Computer Science at UTFPR - Campo Mourão (5/8)
+- 🎓 Currently undergraduate in Computer Science at UTFPR - Campo Mourão (6/8)
 
 ---
 
