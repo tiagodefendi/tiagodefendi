@@ -147,11 +147,19 @@
   </a>
 
   <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
-    <img align="center" alt="Polygon" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg"/>
+    <img align="center" alt="Hardhat" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/hardhat.svg"/>
   </a>
 
-  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
-    <img align="center" alt="Hardhat" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/hardhat.svg"/>
+  <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge">
+    <img align="center" alt="Bitcoin" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg"/>
+  </a>
+
+  <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3">
+    <img align="center" alt="Ethereum" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/ethereum.svg"/>
+  </a>
+
+  <a href="https://polygonscan.com/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3">
+    <img align="center" alt="Polygon" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg"/>
   </a>
 </div>
 </br>
@@ -167,7 +175,7 @@
 <div>
     <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
     <img align="center" alt="Linux" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/linux.svg"/>
-    <img align="center" alt="MacOS & iOS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/apple.svg"/>
+    <!-- <img align="center" alt="MacOS & iOS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/apple.svg"/> -->
     <img align="center" alt="Android" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/android.svg"/>
 </div>
 </br>
@@ -185,6 +193,7 @@
     <img align="center" alt="Replit" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg"/>
     <img align="center" alt="Arduino IDE" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
     <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
+  <img align="center" alt="Metamask" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/metamask.svg"/>
     <img align="center" alt="Arch" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/arch.svg"/>
     <img align="center" alt="Ubuntu" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg"/>
 </div>
