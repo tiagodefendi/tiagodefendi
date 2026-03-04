@@ -99,7 +99,7 @@
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/androidstudio.svg" width="35" title="Android Studio"/></a>
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg" width="35" title="Replit"/></a>
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg" width="35" title="Arduino IDE"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/replit.svg" width="35" title="Metamask"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/metamask.svg" width="35" title="Metamask"/></a>
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/overleaf.svg" width="35" title="Overleaf"/></a>
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/arch.svg" width="35" title="Arch"/></a>
   <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg" width="35" title="Windows 11"/></a>
