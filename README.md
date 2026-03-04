@@ -62,6 +62,10 @@
   <a href="">
     <img align="center" alt="Lua" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
   </a>
+
+  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
+    <img align="center" alt="Solidity" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/solidity.svg"/>
+  </a>
 </div>
 </br>
 
@@ -140,6 +144,10 @@
 
   <a href="https://github.com/tiagodefendi/Computacao_Fisica">
     <img align="center" alt="Arduino" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
+  </a>
+
+  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
+    <img align="center" alt="Polygon" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg"/>
   </a>
 </div>
 </br>
