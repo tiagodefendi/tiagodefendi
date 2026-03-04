@@ -13,9 +13,16 @@
 [![Blue Sky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/tiagodefendi.bsky.social)
 
 ---
-
+<!--
 ![Defendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodefendi&include_all_commits=true&show_icons=true&number_format=short&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=25,003CFF,FF001E)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodefendi&langs_count=8&layout=compact&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=25,003CFF,FF001E)
+-->
+
+![Defendi's Details Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagodefendi&theme=nord_dark)
+
+![Defendi's Details Languages by Repo.](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagodefendi&theme=nord_dark&exclude=)
+![Defendi's Details Languages by Repo.](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagodefendi&theme=nord_dark&exclude=)
+![Defendi's Status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagodefendi&theme=nord_dark)
 
 ---
 
