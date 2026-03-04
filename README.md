@@ -79,7 +79,7 @@
   <a href="https://github.com/tiagodefendi/Computacao_Fisica"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg" width="35" title="Arduino"/></a>
   <a href="https://github.com/batichotti/CooperaAgro-Blockchain"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/hardhat.svg" width="35" title="Hardhat"/></a>
   <a href="https://github.com/batichotti/CooperaAgro-Blockchain"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/foundry.svg" width="35" title="Foundry"/></a>
-  <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg" width="35" title="Bitcoin"/></a>
+  <!-- <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg" width="35" title="Bitcoin"/></a> -->
   <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/ethereum.svg" width="35" title="Ethereum"/></a>
   <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg" width="35" title="Polygon"/></a>
   <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/latex.svg" width="35" title="LaTeX"/>
