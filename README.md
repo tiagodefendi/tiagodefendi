@@ -142,8 +142,16 @@
     <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
   </a>
 
+  <a href="https://github.com/batichotti/Titan-Files-Research">
+    <img align="center" alt="Quarto Markdown" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/quarto.svg"/>
+  </a>
+
   <a href="https://github.com/tiagodefendi/Computacao_Fisica">
     <img align="center" alt="Arduino" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
+  </a>
+
+  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
+    <img align="center" alt="Foundry" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/foundry.svg"/>
   </a>
 
   <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
