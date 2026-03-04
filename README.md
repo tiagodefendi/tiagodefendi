@@ -88,7 +88,7 @@
   <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/android.svg" width="35" title="Android"/>
 </p>
 
-**Developing Environment**
+**Productive Environment**
 <p align="left">
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/github.svg" width="35" title="Github"/></a>
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/vscode.svg" width="35" title="VS Code"/></a>
@@ -101,6 +101,7 @@
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg" width="35" title="Arduino IDE"/></a>
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/metamask.svg" width="35" title="Metamask"/></a>
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/overleaf.svg" width="35" title="Overleaf"/></a>
+  <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/notion.svg" width="35" title="Notion"/></a>
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/arch.svg" width="35" title="Arch"/></a>
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg" width="35" title="Windows 11"/></a>
   <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg" width="35" title="Ubuntu"/></a>
