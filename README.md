@@ -150,9 +150,9 @@
     <img align="center" alt="Hardhat" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/hardhat.svg"/>
   </a>
 
-  <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge">
-    <img align="center" alt="Bitcoin" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg"/>
-  </a>
+  <!-- <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge">
+    <img align="center" alt="Bitcoin" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg"/> 
+  </a>-->
 
   <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3">
     <img align="center" alt="Ethereum" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/ethereum.svg"/>
