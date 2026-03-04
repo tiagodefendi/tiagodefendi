@@ -64,7 +64,7 @@
   <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg" width="35" title="Numpy"/></a>
   <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg" width="35" title="Pandas"/></a>
   <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/django.svg" width="35" title="Django"/></a>
-  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/node.svg" width="35" title="NodeJS"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nodejs.svg" width="35" title="NodeJS"/></a>
   <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nestjs.svg" width="35" title="Nest"/></a>
   <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nextjs.svg" width="35" title="NextJS"/></a>
   <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/react.svg" width="35" title="React"/></a>
@@ -82,10 +82,10 @@
   <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg" width="35" title="Bitcoin"/></a>
   <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/ethereum.svg" width="35" title="Ethereum"/></a>
   <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg" width="35" title="Polygon"/></a>
+  <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/latex.svg" width="35" title="LaTeX"/>
   <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/linux.svg" width="35" title="Linux"/>
   <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg" width="35" title="Windows 11"/>
   <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/android.svg" width="35" title="Android"/>
-  <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/latex.svg" width="35" title="LaTeX"/>
 </p>
 
 **Developing Environment**
