@@ -149,6 +149,10 @@
   <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
     <img align="center" alt="Polygon" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg"/>
   </a>
+
+  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
+    <img align="center" alt="Hardhat" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/hardhat.svg"/>
+  </a>
 </div>
 </br>
 
