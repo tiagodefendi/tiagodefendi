@@ -18,11 +18,23 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodefendi&langs_count=8&layout=compact&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=25,003CFF,FF001E)
 -->
 
-![Defendi's Details Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagodefendi&theme=nord_dark)
+<table border="0" width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagodefendi&theme=nord_dark" width="100%">
+    </td>
+    <td width="33.3%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagodefendi&theme=nord_dark" width="100%">
+    </td>
+    <td width="33.3%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagodefendi&theme=nord_dark" width="100%">
+    </td>
+  </tr>
+</table>
 
-![Defendi's Details Languages by Repo.](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagodefendi&theme=nord_dark&exclude=)
-![Defendi's Details Languages by Repo.](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagodefendi&theme=nord_dark&exclude=)
-![Defendi's Status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagodefendi&theme=nord_dark)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagodefendi&theme=nord_dark" width="75%">
+</p>
 
 ---
 
