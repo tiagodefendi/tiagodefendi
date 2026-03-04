@@ -90,20 +90,20 @@
 
 **Developing Environment**
 <p align="left">
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/github.svg" width="35" title="Github"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/vscode.svg" width="35" title="VS Code"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/pycharm.svg" width="35" title="Pycharm"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/intellij.svg" width="35" title="IntelliJ"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/postman.svg" width="35" title="Postman"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/rstudio.svg" width="35" title="R Studio"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/androidstudio.svg" width="35" title="Android Studio"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/replit.svg" width="35" title="Replit"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/skills/arduino.svg" width="35" title="Arduino IDE"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/skills/replit.svg" width="35" title="Metamask"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/skills/overleaf.svg" width="35" title="Overleaf"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/os/arch.svg" width="35" title="Arch"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/os/windows11.svg" width="35" title="Windows 11"/></a>
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/os/ubuntu.svg" width="35" title="Ubuntu"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/github.svg" width="35" title="Github"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/vscode.svg" width="35" title="VS Code"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/pycharm.svg" width="35" title="Pycharm"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/intellij.svg" width="35" title="IntelliJ"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/postman.svg" width="35" title="Postman"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/rstudio.svg" width="35" title="R Studio"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/androidstudio.svg" width="35" title="Android Studio"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg" width="35" title="Replit"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg" width="35" title="Arduino IDE"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/replit.svg" width="35" title="Metamask"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/overleaf.svg" width="35" title="Overleaf"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/arch.svg" width="35" title="Arch"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg" width="35" title="Windows 11"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg" width="35" title="Ubuntu"/></a>
 </p>
 
 ---
