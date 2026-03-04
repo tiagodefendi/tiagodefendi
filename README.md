@@ -21,13 +21,13 @@
 <table border="0" width="100%">
   <tr>
     <td width="33.3%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagodefendi&theme=nord_dark" width="100%">
+    </td>
+    <td width="33.3%" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagodefendi&theme=nord_dark" width="100%">
     </td>
     <td width="33.3%" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagodefendi&theme=nord_dark" width="100%">
-    </td>
-    <td width="33.3%" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagodefendi&theme=nord_dark" width="100%">
     </td>
   </tr>
 </table>
@@ -37,194 +37,74 @@
 </p>
 
 ---
+### 📚 Tech Stack & Projects
 
-### 📚 Programming Language
+**Programming Languages & Databases**
+<p align="left">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg" width="35" title="Python"/></a>
+  <a href="https://github.com/tiagodefendi/Algoritimo"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg" width="35" title="C"/></a>
+  <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg" width="35" title="C++"/></a>
+  <a href="https://github.com/tiagodefendi/CrazyIdeas"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg" width="35" title="Java"/></a>
+  <a href="https://github.com/tiagodefendi/produto-api"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg" width="35" title="JavaScript"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg" width="35" title="TypeScript"/></a>
+  <a href="https://github.com/tiagodefendi/Julia"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg" width="35" title="Julia"/></a>
+  <a href="https://github.com/tiagodefendi/R"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg" width="35" title="R"/></a>
+  <a href="https://github.com/tiagodefendi/Lua"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg" width="35" title="Lua"/></a>
+  <a href="https://github.com/tiagodefendi/produto-web"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/dart.svg" width="35" title="Dart"/></a>
+  <a href="https://github.com/batichotti/CooperaAgro-Blockchain"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/solidity.svg" width="35" title="Solidity"/></a>
+  <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg" width="35" title="PostgreSQL"/></a>
+  <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/mysql.svg" width="35" title="MySQL"/></a>
+  <a href="https://tiagodefendi.com"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg" width="35" title="SQLite"/></a>
+</p>
 
-<div>
+**Frameworks, Tools & OS**
+<p align="left">
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/docker.svg" width="35" title="Docker"/></a>
+  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/git.svg" width="35" title="Git"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg" width="35" title="Numpy"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg" width="35" title="Pandas"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/django.svg" width="35" title="Django"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/node.svg" width="35" title="NodeJS"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nestjs.svg" width="35" title="Nest"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nextjs.svg" width="35" title="NextJS"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/react.svg" width="35" title="React"/></a>
+  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/tailwindcss.svg" width="35" title="Tailwind CSS"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bootstrap.svg" width="35" title="Bootstrap"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/html5.svg" width="35" title="HTML5"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/css3.svg" width="35" title="CSS3"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/flutter.svg" width="35" title="Flutter"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/markdown.svg" width="35" title="Markdown"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg" width="35" title="Jupyter Notebook"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/quarto.svg" width="35" title="Quarto Markdown"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg" width="35" title="Arduino"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/hardhat.svg" width="35" title="Hardhat"/></a>
+  <a href="https://github.com/batichotti/Colossal-Files-Research"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/foundry.svg" width="35" title="Foundry"/></a>
+  <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg" width="35" title="Bitcoin"/></a>
+  <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/ethereum.svg" width="35" title="Ethereum"/></a>
+  <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg" width="35" title="Polygon"/></a>
+  <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/linux.svg" width="35" title="Linux"/>
+  <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg" width="35" title="Windows 11"/>
+  <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/android.svg" width="35" title="Android"/>
+  <img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/latex.svg" width="35" title="LaTeX"/>
+</p>
 
-  <a href="https://github.com/tiagodefendi/Intoducao_Programacao">
-    <img align="center" alt="Python" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/python.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Algoritimo">
-    <img align="center" alt="C" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/c.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Algritimos_E_Estrutura_De_Dados_1">
-    <img align="center" alt="C++" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/cpp.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/CrazyIdeas">
-    <img align="center" alt="Java" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/java.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/produto-api">
-    <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/javascript.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
-    <img align="center" alt="TypeScript" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/typescript.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Julia">
-    <img align="center" alt="Julia" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/julia.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/R">
-    <img align="center" alt="R" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/r.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/produto-web">
-    <img align="center" alt="Dart" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/dart.svg"/>
-  </a>
-
-  <a href="">
-    <img align="center" alt="Lua" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/lua.svg"/>
-  </a>
-
-  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
-    <img align="center" alt="Solidity" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/solidity.svg"/>
-  </a>
-</div>
-</br>
-
-### 💾 Database
-
-<div>
-    <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/mysql.svg"/>
-    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/postgresql.svg"/>
-    <img align="center" alt="SQLite" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/database/sqlite.svg"/>
-</div>
-</br>
-
-### 🧮 Skills
-
-<div>
-
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
-    <img align="center" alt="Docker" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/docker.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi">
-    <img align="center" alt="Git" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/git.svg"/>
-  </a>
-
-  <a href="https://github.com/batichotti/Colossal-Files-Research">
-    <img align="center" alt="Numpy" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/numpy.svg"/>
-  </a>
-  
-  <a href="https://github.com/batichotti/Colossal-Files-Research">
-    <img align="center" alt="Pandas" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/pandas.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
-    <img align="center" alt="Django" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/django.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/produto-api">
-    <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nodejs.svg"/>
-  </a>
-  
-  <a href="">
-    <img align="center" alt="NestJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nestjs.svg"/>
-  </a>
-  
-  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
-    <img align="center" alt="NextJS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/nextjs.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
-    <img align="center" alt="React" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/react.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/tiagodefendi.github.io">
-    <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/tailwindcss.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
-    <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bootstrap.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
-    <img align="center" alt="HTML5" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/html5.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Hydro-Cultiva-Connect">
-    <img align="center" alt="CSS3" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/css3.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/produto-web">
-    <img align="center" alt="Flutter" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/flutter.svg"/>
-  </a>
-
-  <a href="https://github.com/batichotti/Titan-Files-Research">
-    <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/jupyter.svg"/>
-  </a>
-
-  <a href="https://github.com/batichotti/Titan-Files-Research">
-    <img align="center" alt="Quarto Markdown" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/quarto.svg"/>
-  </a>
-
-  <a href="https://github.com/tiagodefendi/Computacao_Fisica">
-    <img align="center" alt="Arduino" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
-  </a>
-
-  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
-    <img align="center" alt="Foundry" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/foundry.svg"/>
-  </a>
-
-  <a href="https://github.com/batichotti/CooperaAgro-Blockchain">
-    <img align="center" alt="Hardhat" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/hardhat.svg"/>
-  </a>
-
-  <!-- <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qxt2mkmnn6wsc655qqsw8yzzl7eq23m2xv2wjge">
-    <img align="center" alt="Bitcoin" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/bitcoin.svg"/> 
-  </a>-->
-
-  <a href="https://etherscan.io/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3">
-    <img align="center" alt="Ethereum" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/ethereum.svg"/>
-  </a>
-
-  <a href="https://polygonscan.com/address/0xB85b52aF6D7A7ed1B1B1c49F202B240ED9134CC3">
-    <img align="center" alt="Polygon" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/polygon.svg"/>
-  </a>
-</div>
-</br>
-
-<!--
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=Overleaf&logoColor=white)
--->
-
-### 💻 Development to OS
-
-<div>
-    <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
-    <img align="center" alt="Linux" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/linux.svg"/>
-    <!-- <img align="center" alt="MacOS & iOS" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/apple.svg"/> -->
-    <img align="center" alt="Android" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/android.svg"/>
-</div>
-</br>
-
-### 🛠️ Developing Environment
-
-<div>
-    <img align="center" alt="Github" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/github.svg"/>
-    <img align="center" alt="VS Code" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/vscode.svg"/>
-    <img align="center" alt="Pycharm" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/pycharm.svg"/>
-    <img align="center" alt="IntelliJ" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/intellij.svg"/>
-    <img align="center" alt="Postman" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/postman.svg"/>
-    <img align="center" alt="R Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/rstudio.svg"/>
-    <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/androidstudio.svg"/>
-    <img align="center" alt="Replit" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg"/>
-    <img align="center" alt="Arduino IDE" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
-  <img align="center" alt="Metamask" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/metamask.svg"/>
-    <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
-    <img align="center" alt="Arch" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/arch.svg"/>
-    <img align="center" alt="Ubuntu" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg"/>
-</div>
-</br>
+**Developing Environment**
+<p align="left">
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/github.svg" width="35" title="Github"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/vscode.svg" width="35" title="VS Code"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/pycharm.svg" width="35" title="Pycharm"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/intellij.svg" width="35" title="IntelliJ"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/postman.svg" width="35" title="Postman"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/rstudio.svg" width="35" title="R Studio"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/androidstudio.svg" width="35" title="Android Studio"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/ide/replit.svg" width="35" title="Replit"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/skills/arduino.svg" width="35" title="Arduino IDE"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/skills/replit.svg" width="35" title="Metamask"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/skills/overleaf.svg" width="35" title="Overleaf"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/os/arch.svg" width="35" title="Arch"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/os/windows11.svg" width="35" title="Windows 11"/></a>
+  <a href="https://github.com/tiagodefendi/Intoducao_Programacao"><img src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/languages/os/ubuntu.svg" width="35" title="Ubuntu"/></a>
+</p>
 
 ---
 
@@ -260,13 +140,10 @@ Continue Python BOTs for Discord -> https://github.com/tiagodefendi/Lucy
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=18152E)
 ![LightroomC](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom-Classic&logoColor=18152E)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=3c240c)
-
 ![Premier Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=22042C)
 ![Vegas Pro](https://img.shields.io/badge/VEGAS-1A1A1A.svg?style=for-the-badge&logo=VEGAS&logoColor=40D0FB)
 ![Davinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white)
-
 ![OBS](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white)
-
 ![Fl Studio](https://img.shields.io/badge/Fl%20Studio-99CC33.svg?style=for-the-badge&logo=Franprix&logoColor=white)
 
 </details>
