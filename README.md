@@ -192,8 +192,8 @@
     <img align="center" alt="Android Studio" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/androidstudio.svg"/>
     <img align="center" alt="Replit" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/ide/replit.svg"/>
     <img align="center" alt="Arduino IDE" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/arduino.svg"/>
-    <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
   <img align="center" alt="Metamask" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/skills/metamask.svg"/>
+    <img align="center" alt="Windows" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/windows11.svg"/>
     <img align="center" alt="Arch" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/arch.svg"/>
     <img align="center" alt="Ubuntu" height="40" width="40" src="https://github.com/tiagodefendi/tiagodefendi/blob/main/icons/os/ubuntu.svg"/>
 </div>
