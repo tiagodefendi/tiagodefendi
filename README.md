@@ -13,11 +13,11 @@
 [![Blue Sky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/tiagodefendi.bsky.social)
 
 ---
-<!--
+
 ![Defendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagodefendi&include_all_commits=true&show_icons=true&number_format=short&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=25,003CFF,FF001E)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodefendi&langs_count=8&layout=compact&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=25,003CFF,FF001E)
--->
 
+<!--
 <table border="0" width="100%">
   <tr>
     <td width="33.3%" align="center">
@@ -35,6 +35,7 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagodefendi&theme=nord_dark" width="75%">
 </p>
+-->
 
 ---
 ### 📚 Tech Stack & Projects
